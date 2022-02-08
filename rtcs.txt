@@ -1,0 +1,6 @@
+18380798	SICRM - Base de Dados (visão risco de crédito) MVP1
+18380788	SICRM - Base de Dados (visão pesquisa cadastral) MVP 1
+18380773	SICRM - Base de Dados (visão cadastro) MVP 1
+18374740	SICRM - Base de Dados (visão cartão) MVP 1
+18374519	SICRM - Base de Dados (visão conta) MVP1
+18374087	SICRM - Base de Dados (visão crédito) MVP1
